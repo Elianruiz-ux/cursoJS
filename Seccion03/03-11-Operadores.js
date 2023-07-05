@@ -10,6 +10,6 @@ if(edad >= 18){
     console.log("no puede votar");
 }
 
-// si = (edad >= 18) ? "Puede votar":"No puede votar";
+// let si = (edad >= 18) ? "Puede votar":"No puede votar";
 // console.log(si);
 
